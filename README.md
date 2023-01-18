@@ -1,5 +1,4 @@
 # Hangman-Game
- [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Flutter-1389FD.svg)](http://flutter.dev)
 
  A hangman game written in Javascript
  Player has 8 lives in each turn. 
